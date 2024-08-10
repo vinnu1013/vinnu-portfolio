@@ -1,0 +1,21 @@
+*{
+    margin: 5px;
+    padding: 10px;
+    font-family: sans-serif;
+    background-image: url('./background06.jpg');
+    background-position: 0px auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 20px;
+}
+.button{
+    background: #000000;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
+    display: inline-block;
+    border-radius: 5px;
+    line-height: 20px;
+}
